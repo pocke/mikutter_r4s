@@ -1,5 +1,9 @@
 #-*- coding: utf-8 -*-
 
+# Copyright 2013, pocket
+# Licensed MIT
+# http://opensource.org/licenses/mit-license.php
+
 Plugin.create(:r4s) do
   command(:r4s,
     name: 'r4s',
